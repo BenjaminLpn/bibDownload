@@ -15,4 +15,4 @@ This script aims at downloading from academic sources from website automatically
 * It is necessary to download **BeautifulSoup** package.
 * `papers`: Please input all of your paper titles to this variable.
 * `search_website`: Prefix of academic search from Bing.
-* In theory, this script analyze the elements and get the paper ID in Bing Library. And then get the whole BibTex. Finally, it is better to modify it to the format you want.
+* In theory, this script analyzes the elements to get the paper ID in Bing Library. And then add it to the BibTex search site. Finally, it is better to format it to what you want.
