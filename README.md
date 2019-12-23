@@ -16,3 +16,7 @@ This script aims at downloading from academic sources from website automatically
 * `papers`: Please input all of your paper titles to this variable.
 * `search_website`: Prefix of academic search from Bing.
 * In theory, this script analyzes the elements to get the paper ID in Bing Library. And then add it to the BibTex search site. Finally, it is better to format it to what you want.
+
+
+### OMG
+OMG, It is embarassing to find that there is a better repo: [link](https://github.com/venthur/gscholar.git).
